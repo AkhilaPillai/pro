@@ -1,5 +1,3 @@
-// C/C++ program to find the length of the longest substring
-// without repeating characters
 #include<stdlib.h>
 #include<stdio.h>
 #include<string.h>
